@@ -178,6 +178,7 @@ main{
   display: flex;
   flex:-1;
   padding: 2rem;
+  min-height: 80vh;
 }
 
 main h1{
@@ -249,6 +250,8 @@ footer{
   text-align: center;
   font-size: 0.9rem;
   flex-direction: column; 
+  margin-top: 2rem;
+  padding-top: 1rem;
 }
 
 footer p{
@@ -281,6 +284,7 @@ footer p{
   margin: 0 auto;
   padding: 10px 2rem 60px;
   color: #ededed;
+  min-height: 80vh;
   }
   
 .quienes-somos-section h2 {
@@ -304,6 +308,7 @@ footer p{
   height: auto;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0, 171, 240, 0.15);
+  margin-bottom: 2rem;
   }
   
 .quienes-somos-section p {
